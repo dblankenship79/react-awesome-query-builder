@@ -590,6 +590,7 @@ interface ReadyWidgets {
   FieldSelect: ElementType<FieldProps>,
   FieldDropdown: ElementType<FieldProps>,
   FieldCascader: ElementType<FieldProps>,
+  FieldTreeSelect: ElementType<FieldProps>,
   VanillaFieldSelect: ElementType<FieldProps>,
 
   ValueFieldWidget: ElementType<WidgetProps>,

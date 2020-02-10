@@ -1,4 +1,6 @@
 # Changelog
+- 1.3.1
+  - Added `FieldTreeSelect`
 - 1.2.0
   - Added `treeselect` and `treemultiselect` types
   - Changed format of `listValues` from `{<value>: <title>}` to `[{value, title}]` (old is supported). 
